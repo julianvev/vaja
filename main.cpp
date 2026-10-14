@@ -1,4 +1,4 @@
 int main() {
-// verzija 1
-	return 0;
+// verzija 4
+	return 43;
 }
